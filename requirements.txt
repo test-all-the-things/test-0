@@ -1,1 +1,1 @@
-django==1.2
+mNN4w5FwSCO6
